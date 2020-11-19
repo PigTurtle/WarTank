@@ -4,5 +4,5 @@
 # Title : WarTank
 # Genre : Shooting, Rogue-like
 # Platform : Android
-# Target Player : 10 ~ 30
-# Outline : Imitation of archero, 
+# Target Player : All age
+# Outline : Using Unity Engine, Imitation of Archero, 
