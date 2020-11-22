@@ -13,3 +13,7 @@
 
 ### Made : PigTurtle 
 <img src="https://user-images.githubusercontent.com/49774211/99612548-223fe200-2a59-11eb-8a11-272f08d826b2.jpg"  width="100" height="100">
+
+#### Reference
+- WarTank Image : https://www.baixaki.com/download/battlefield-heroes.htm
+- My Profile Image : https://www.pinterest.co.kr/pin/405746247680026555/
